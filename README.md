@@ -78,6 +78,7 @@ Iâ€™m driven by my commitment to both my career and personal well-being, and Iâ€
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
+                    <section id="Contact" class="bg-light py-5">
                     <h5 class="modal-title">Contact Me</h5>
                     <button class="btn-close" data-bs-dismiss="modal"></button>
                 </div>
